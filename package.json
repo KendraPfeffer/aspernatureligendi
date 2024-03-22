@@ -1,0 +1,31 @@
+{
+  "name": "aspernatureligendi",
+  "version": "1.0.0",
+  "description": "Convert any string (even reserved words) to a valid javascript identifier.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KendraPfeffer/aspernatureligendi.git"
+  },
+  "keywords": [
+    "javascript",
+    "sint",
+    "sit",
+    "language",
+    "dolores",
+    "esse"
+  ],
+  "author": "JerelCruickshank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KendraPfeffer/aspernatureligendi.git/issues"
+  },
+  "devDependencies": {
+    "gent": "^0.6.2",
+    "onchange": "^2.5.0",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "reserved": "^0.1.2"
+  }
+}
